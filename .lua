@@ -1,3 +1,4 @@
+workspace.__THINGS.__REMOTES.MAIN:FireServer("b", "use golden machine")
 local Library = require(game:GetService("ReplicatedStorage").Framework.Library)
 local IDToName = {}
 local NameToID = {}
